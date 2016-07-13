@@ -335,3 +335,20 @@ Veröffentlichen / Aktualisieren
 - Beschreibung der Organisation
 - Link zu weiteren Informationen der Organisation
 - Bild der Organisation
+ 
+# Datensatz Statistik für Data Owner einsehen
+
+![Screenshot](http://i.imgur.com/LHJt2HN.gif)
+
+1. Auf https://piwik.opendata.swiss einloggen
+2. Im Menü links Seiten auswählen.
+3. Nun im anderen Tab auf opendata.swiss den entsprechenden Datensatz ansurfen. (z.B. https://opendata.swiss/de/dataset/verbreitung-der-steinbockkolonien)
+4. Aus der Url den letzten Teil nach dem "/" Zeichen kopieren (z.B. verbreitung-der-steinbockkolonien) (Shortkey CTRL+C oder Mac CMD+C)
+5. Zurück zum Piwik Tab gehen und oben das Datum auswählen (z.B. letzter Monat)
+6. In die große Suchleiste den herauskopierten Teil der URL pasten (hineinkopieren) (z.B. verbreitung-der-steinbockkolonien)
+7. Man erhält nun Auskunft darüber wie oft dieser Datensatz angezeigt worden ist. (Seitenansichten) 
+8. "Eindeutige Seitenansichten" dagegen entsprechen der Anzahl der Benutzer die diesen Datensatz angeschaut haben. 
+9. Die "dünne blaue" Schrift misst die Seitenaufrufe der "Hauptseite" (z.B. https://opendata.swiss/de/dataset/verbreitung-der-steinbockkolonien)
+10. Die "dicke schwarze" Schrift misst die Seitenaufrufe aller unterseiten dieser Seite (z.B. "Mehr Informationen"  mit dem link https://opendata.swiss/de/dataset/verbreitung-der-steinbockkolonien/resource/16ae791b-6cac-4808-8863-3de645686274). Diese werden alle zusammengefasst. 
+11. Die Unterscheidung nach z.B. fr/en/de usw. zeigt die Sprachen an auf denen die Besucher den Datensatz angeschaut haben. Diese können manuell zusammengezählt werden. 
+12. Es ist nicht einfach möglich zu sehen wieviele Downloads stattgefunden haben oder die Daten für eine Organisation zu aggregieren. 
